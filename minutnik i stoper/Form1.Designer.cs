@@ -44,6 +44,7 @@
             bstop2 = new Button();
             bstart2 = new Button();
             stoper = new Label();
+            timer2 = new System.Windows.Forms.Timer(components);
             tabControl1.SuspendLayout();
             zakladki.SuspendLayout();
             tabPage2.SuspendLayout();
@@ -57,6 +58,7 @@
             bstart.TabIndex = 0;
             bstart.Text = "Start";
             bstart.UseVisualStyleBackColor = true;
+            bstart.MouseClick += bstart_MouseClick;
             // 
             // bstop
             // 
@@ -66,6 +68,7 @@
             bstop.TabIndex = 1;
             bstop.Text = "Stop";
             bstop.UseVisualStyleBackColor = true;
+            bstop.MouseClick += bstop_MouseClick;
             // 
             // lminuty
             // 
@@ -100,6 +103,10 @@
             tsekundy.Name = "tsekundy";
             tsekundy.Size = new Size(100, 23);
             tsekundy.TabIndex = 5;
+            // 
+            // timer1
+            // 
+            timer1.Tick += timer1_Tick;
             // 
             // tabControl1
             // 
@@ -222,5 +229,6 @@
         private Button bstop2;
         private Button bstart2;
         private Label stoper;
+        private System.Windows.Forms.Timer timer2;
     }
 }
