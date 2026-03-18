@@ -1,0 +1,16 @@
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\bin\Debug\net10.0-windows\minutnik i stoper.exe
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\bin\Debug\net10.0-windows\minutnik i stoper.deps.json
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\bin\Debug\net10.0-windows\minutnik i stoper.runtimeconfig.json
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\bin\Debug\net10.0-windows\minutnik i stoper.dll
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\bin\Debug\net10.0-windows\minutnik i stoper.pdb
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\minutnik_i_stoper.Form1.resources
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\minutnik i stoper.csproj.GenerateResource.cache
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\minutnik i stoper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\minutnik i stoper.AssemblyInfoInputs.cache
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\minutnik i stoper.AssemblyInfo.cs
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\minutnik i stoper.csproj.CoreCompileInputs.cache
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\minutnik i stoper.dll
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\refint\minutnik i stoper.dll
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\minutnik i stoper.pdb
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\minutnik i stoper.genruntimeconfig.cache
+C:\Users\1ap\source\repos\minutnik i stoper\minutnik i stoper\obj\Debug\net10.0-windows\ref\minutnik i stoper.dll
