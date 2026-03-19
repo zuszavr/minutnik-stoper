@@ -88,7 +88,7 @@ namespace minutnik_i_stoper
             else
             {
                 timer1.Stop();
-                MessageBox.Show("Stoper");
+                MessageBox.Show("Koniec czasu!");
             }
         }
 
