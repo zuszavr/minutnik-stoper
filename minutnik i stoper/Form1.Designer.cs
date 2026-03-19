@@ -96,6 +96,7 @@
             tminuty.Name = "tminuty";
             tminuty.Size = new Size(100, 23);
             tminuty.TabIndex = 4;
+            tminuty.MouseClick += tminuty_MouseClick;
             // 
             // tsekundy
             // 
@@ -103,6 +104,7 @@
             tsekundy.Name = "tsekundy";
             tsekundy.Size = new Size(100, 23);
             tsekundy.TabIndex = 5;
+            tsekundy.MouseClick += tsekundy_MouseClick;
             // 
             // timer1
             // 
@@ -167,6 +169,7 @@
             breset2.TabIndex = 3;
             breset2.Text = "Reset";
             breset2.UseVisualStyleBackColor = true;
+            breset2.MouseClick += breset2_MouseClick;
             // 
             // bstop2
             // 
@@ -176,6 +179,7 @@
             bstop2.TabIndex = 2;
             bstop2.Text = "Stop";
             bstop2.UseVisualStyleBackColor = true;
+            bstop2.MouseClick += bstop2_MouseClick;
             // 
             // bstart2
             // 
@@ -185,6 +189,7 @@
             bstart2.TabIndex = 1;
             bstart2.Text = "Start";
             bstart2.UseVisualStyleBackColor = true;
+            bstart2.MouseClick += bstart2_MouseClick;
             // 
             // stoper
             // 
@@ -195,6 +200,10 @@
             stoper.Size = new Size(283, 128);
             stoper.TabIndex = 0;
             stoper.Text = "00:00";
+            // 
+            // timer2
+            // 
+            timer2.Tick += timer2_Tick;
             // 
             // Form1
             // 
