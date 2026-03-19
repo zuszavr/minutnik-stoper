@@ -118,7 +118,7 @@ namespace minutnik_i_stoper
         private void breset2_MouseClick(object sender, MouseEventArgs e)
         {
             czsto = 0;
-            stoper.Text = TimeSpan.FromSeconds(czmin).ToString(@"mm\:ss");
+            stoper.Text = "00:00";
         }
 
         private void tminuty_MouseClick(object sender, MouseEventArgs e)
